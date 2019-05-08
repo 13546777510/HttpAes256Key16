@@ -1,6 +1,6 @@
 {
   "name": "httpaes256key16",
-  "version": "1.0.1", 
+  "version": "1.0.1",
   "description": "cordova plugin",
   "cordova": {
     "id": "cordova-plugin-httpaes256key16",
