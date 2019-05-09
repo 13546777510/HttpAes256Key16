@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova.plugin.HttpAes256Key16" version="1.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova.plugin.HttpAes256Key16" version="1.0.2" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
   <name>HttpAes256Key16</name>
   <keywords>cordova,mjtest,cordova-ios,cordova-android</keywords>
   <repo>https://github.com/13546777510/HttpAes256Key16.git</repo>
